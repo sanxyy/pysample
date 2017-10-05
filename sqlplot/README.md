@@ -9,6 +9,11 @@ pip install -r requirements.txt
 On Linux with python 3 use pip3 
 pip3 install -r requirements.txt 
 
+Additionally, if error " No module named '_tkinter'" raised, 
+on Ubuntu install the python3-tk package
+
+sudo apt-get install python3-tk
+
 # SQLite quick start
 
 sqlite3 test.db   ( connect to an existing DB named test.db)
