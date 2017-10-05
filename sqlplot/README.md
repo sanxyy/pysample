@@ -1,4 +1,5 @@
-# 3 STEPS to work on the sample 
+# 2 STEPS to work on the sample 
+You need to install python depedent libs, use sqlite CLI to check DB content
 
 # Python depedent libraries installation
 install required python libraries
