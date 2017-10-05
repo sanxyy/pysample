@@ -1,3 +1,5 @@
+# 3 STEPS to work on the sample 
+
 # Python depedent libraries installation
 install required python libraries
 
