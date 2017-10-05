@@ -4,8 +4,8 @@ import datetime as dt
 import matplotlib.dates as mdates
 
 '''
-
-connect to a sqlllite database , generate a graph using matplotlib
+The python program 
+connects to a sqlllite database , generate a graph using matplotlib
 
 '''
 def queryData():
