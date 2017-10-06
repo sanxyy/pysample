@@ -35,7 +35,7 @@ def queryData():
 	#the unit of x axis is 2 days if the following locator is set 
     #plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=2))
     
-    
+    #plot a greeen line with '- 'sign represents each point of the ine 
     plt.plot(x,memList,"g-")
      
     #plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
