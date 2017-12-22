@@ -1,3 +1,6 @@
+#Prerequisites
+Download sqlite3 from this URL https://sqlite.org/download.html
+For Windows, download both DLL and tools in the 'Precompiled Binaries for Windows' section 
 
 # 2 Steps to work on the sample 
 You need to install python depedent libs, use sqlite CLI to check DB content
