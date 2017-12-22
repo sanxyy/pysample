@@ -1,4 +1,5 @@
-# 2 STEPS to work on the sample 
+
+# 2 Steps to work on the sample 
 You need to install python depedent libs, use sqlite CLI to check DB content
 
 # Python depedent libraries installation
@@ -20,7 +21,7 @@ sqlite3 test.db   ( connect to an existing DB named test.db)
 sqlite> .schema   (show table schema)
 sqlite> .quit    (quit)
 
-#SQL example 
+# SQL example 
 (*)timestamp between a range
 sql = 'select usage,timestamp from mem where timestamp between "2017-04-27 16:00" and "2017-04-28"'
 
