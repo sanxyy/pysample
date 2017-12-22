@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites - sqlite3
 Download sqlite3 from this URL https://sqlite.org/download.html
 For Windows, download both DLL and tools in the 'Precompiled Binaries for Windows' section 
 
